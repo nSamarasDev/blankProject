@@ -4,7 +4,6 @@ import {
   Route,
   Redirect,
   Switch,
-  Now,
 } from "react-router-dom";
 
 import Users from "./user/pages/Users";
