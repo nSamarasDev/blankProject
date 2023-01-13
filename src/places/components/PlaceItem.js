@@ -14,6 +14,7 @@ const PlaceItem = (props) => {
           <h2>{props.title}</h2>
           <h3>{props.address}</h3>
           <p>{props.description}</p>
+          <p>{props.creatorId}</p>
         </div>
         <div className="place-item__actions">
           <button>View on map</button>
